@@ -18,7 +18,7 @@ Tkinter module
 ## Installation
 - Clone the repository to your local machine.
 
-    git clone https://github.com/username/Offer-Letter-Generation-Tkinter.git
+    git clone https://github.com/argadevidya/Offer-Letter-Generation-using-Tkinter.git
 
 - Install Python 3.x or higher if you haven't already.
 
